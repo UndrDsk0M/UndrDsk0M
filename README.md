@@ -4,7 +4,7 @@
 
 
 
-## About Me
+## About Meℹ
 یک مهره‌ی کوچی‌ از دنیای بزرگ برنامه نویسی !
 با امید کشف و گسترش:)
 توسعه کتابخونه های جدید و یادگیری کتابخونه و قابلیت های جدید
@@ -15,7 +15,7 @@
 
 
 
-## Skills (   مهارت ها  )
+## Skills (   مهارت ها  )🧮
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,python,cs,JavaScript,git,github,bootstrap, blender" />
@@ -33,7 +33,9 @@
 <div align="right" style="direction:rtl; text-align:center;">
  به امید همکاری و کسب تجارب در کنار هم ♡
 </div>
-## Connect with 
+
+
+## Connect 📲
 -Email: [gamer.good1400@gmail.com](mailto:gamer.good1400@gmail.com)
 - Telegram: 
 [@undrdskm](https://t.me/undrdskm)
