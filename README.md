@@ -17,7 +17,7 @@
 ## Skills ( مهارت ها  ) 🧮
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,html,css,git,github,bootstrap,blender,django," />
+    <img src="https://skillicons.dev/icons?i=python,cs,blender,django,html,css,git,github,bootstrap,pyrogram" />
   </a>
 </p>
 
