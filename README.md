@@ -11,8 +11,6 @@
 توسعه کتابخونه های جدید و یادگیری کتابخونه و قابلیت های جدید
 </pre>
 
-- 📫 t.me/UndrDskM
-
 
 
 
@@ -36,8 +34,7 @@
 
 
 ## Connect 📲
--Email: [gamer.good1400@gmail.com](mailto:gamer.good1400@gmail.com)
-- Telegram: 
-[@undrdskm](https://t.me/undrdskm)
+📫 Email: [gamer.good1400@gmail.com](mailto:gamer.good1400@gmail.com)
+- Telegram: [@undrdskm](https://t.me/undrdskm)
 
 </div>
