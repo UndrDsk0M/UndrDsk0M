@@ -13,19 +13,20 @@
 
 
 
-
+<br>
 ## Skills ( مهارت ها  ) 🧮
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,blender,django,html,css,git,github,bootstrap,pyrogram" />
+    <img src="https://skillicons.dev/icons?i=python,cs,blender,django,html,css,git,github,bootstrap," />
   </a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undrdsk0m&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+| HTML | CSS | Python | Django | Pyrogram | Selenium | Gui | Applications | Back-end | 
 <br>
+<br>
+<hr>
 
-<div>
- 
 <div align="right" style="direction:rtl; text-align:center;">
  به امید همکاری و کسب تجارب در کنار هم ♡
 </div>
