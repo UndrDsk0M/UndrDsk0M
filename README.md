@@ -22,6 +22,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undrdsk0m&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 | HTML | CSS | Python | Django | Pyrogram | Selenium | Gui | Applications | Back-end | 
 <br>
 <br>
