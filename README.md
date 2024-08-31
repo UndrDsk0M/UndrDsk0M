@@ -30,7 +30,7 @@
 
 <div>
  
-<div style="direction:rtl; text-align:center;">
+<div align="right" style="direction:rtl; text-align:center;">
  به امید همکاری و کسب تجارب در کنار هم ♡
 </div>
 ## Connect with 
