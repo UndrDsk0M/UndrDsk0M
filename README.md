@@ -14,7 +14,7 @@
 
 
 
-```html
+
 ## Skills (   مهارت ها  )
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,4 +37,3 @@
 [@undrdskm](https://t.me/undrdskm)
 
 </div>
-```
