@@ -1,11 +1,40 @@
-- 👋 Hi, I’m @UndrDsk0M
-- 👀 I’m interested in python
-- 🌱 I’m currently learning go & c#
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### سلام خوشتیپ 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=435&lines=Happy+To+See+You+Again+😉)](https://git.io/typing-svg)
+<h1 align="center">UndrDskM ( Ehsan Vk )</h1>
 
-<!---
-UndrDsk0M/UndrDsk0M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## About Me
+یک مهره‌ی کوچی‌ از دنیای بزرگ برنامه نویسی !
+با امید کشف و گسترش:)
+توسعه کتابخونه های جدید و یادگیری کتابخونه و قابلیت های جدید
+
+
+- 📫 t.me/UndrDskM
+
+
+
+```html
+## Skills (   مهارت ها  )
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,python,c#,javascript,git,github,bootstrap, blender" />
+  </a>
+</p>
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UndrDsk0M&show_icons=true&theme=dark&locale=en&layout=compact" alt="UndrDskM" />
+</div>
+ 
+<br>
+
+<div>
+  
+ به امید همکاری و کسب تجارب در کنار هم ♡
+## Connect with 
+-Email: [gamer.good1400@gmail.com](mailto:gamer.good1400@gmail.com)
+- Telegram: 
+[@undrdskm](https://t.me/undrdskm)
+
+</div>
+```
