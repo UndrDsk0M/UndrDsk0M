@@ -4,7 +4,7 @@
 
 
 
-## About Meℹ
+## About Me ℹ
 یک مهره‌ی کوچی‌ از دنیای بزرگ برنامه نویسی !
 با امید کشف و گسترش:)
 توسعه کتابخونه های جدید و یادگیری کتابخونه و قابلیت های جدید
@@ -15,16 +15,14 @@
 
 
 
-## Skills (   مهارت ها  )🧮
+## Skills (   مهارت ها  ) 🧮
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,python,cs,git,github,bootstrap, blender" />
   </a>
 </p>
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UndrDsk0M&show_icons=true&theme=dark&locale=en&layout=compact" alt="UndrDskM" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndrDsk0M&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
  
 <br>
 
