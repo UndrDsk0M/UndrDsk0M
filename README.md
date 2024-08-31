@@ -29,8 +29,10 @@
 <br>
 
 <div>
-  
+ 
+<div style="direction:rtl; text-align:center;">
  به امید همکاری و کسب تجارب در کنار هم ♡
+</div>
 ## Connect with 
 -Email: [gamer.good1400@gmail.com](mailto:gamer.good1400@gmail.com)
 - Telegram: 
