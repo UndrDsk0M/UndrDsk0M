@@ -1,5 +1,5 @@
 ### سلام خوشتیپ 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=435&lines=Lets+Create+Somthing+Interesting+.+.+.+.+.+.+.+.+.+.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=435&lines=  + +Lets+Create+Somthing+Interesting+.+.+.+.+.+.+.+.+.+.+)](https://git.io/typing-svg)
 <h1 align="center">UndrDskM ( Ehsan Vk )</h1>
 
 
@@ -35,6 +35,6 @@
 
 ## Connect 📲
 📫 Email: [gamer.good1400@gmail.com](mailto:gamer.good1400@gmail.com)
-- Telegram: [@undrdskm](https://t.me/undrdskm)
+- Telegram: [@UndrDsk0M2](https://t.me/UndrDsk0M2)
 
 </div>
