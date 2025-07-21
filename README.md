@@ -1,6 +1,6 @@
 <p align="center">
  <img width="200px" src="https://www.freepnglogos.com/uploads/batman-logo-wallpaper-4.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">[EhsanـVk](https://github.com/UndrDsk0M/)</h2>
+ <h2 align="center"><a href="https://github.com/UndrDsk0M/">EhsanـVk</a></h2>
  <p align="center">Making bugs disappear (mostly) - Exploring the world of code with curiosity and caffeine</p>
 </p>
 
@@ -32,6 +32,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Making+bugs+disappear+(mostly)!;Code.+Coffee.+Repeat;Writing+clean+code!;make+things+that+make+life+easy!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="">
 </p>
 <hr>
+
 ## About Me 
 <pre style="text-align: right;"> A tune in my ears, a thought in my mind, a project half-done, yet one of a kind…
 </pre>
