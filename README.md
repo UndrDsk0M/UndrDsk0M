@@ -65,7 +65,14 @@ I hope to contribute to the programming community.<br>
 </div>
 
 ## Connections 📲
-📫 Email: [gamer.good1400@gmail.com](mailto:gamer.good1400@gmail.com)<br>
- Telegram: [@UndrDsk0M2](https://t.me/UndrDsk0M2)
+📫 Email: 
++ [gamer.good1400@gmail.com](mailto:gamer.good1400@gmail.com)
++ [its1.ehsan@gmail.com](mailto:its1.ehsan@gmail.com)
+  
+ Telegram:
++ [@UndrDsk0M2](https://t.me/UndrDsk0M2)
+
+  Gravator:
++ https://gravatar.com/fantasticcherryblossomef40d159a8
 
 </div>
